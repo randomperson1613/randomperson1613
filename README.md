@@ -1,4 +1,4 @@
-# 👋 Привет! Меня зовут Damdam
+# 👋 Привет! Меня зовут Дамир
 
 ### 🚀 QA Automation Engineer | Java
 
