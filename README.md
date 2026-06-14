@@ -1,11 +1,5 @@
 # 👋 Привет! Меня зовут Дамир
 
-### 🚀 QA Automation Engineer | Java
-
----
-
-### 🛠 Мой технический стек:
-`Java` `Selenide` `Selenium` `RestAssured` `JUnit 5` `Gradle` `Jenkins` `Allure Report` `Selenoid` `Git`
 
 ---
 
