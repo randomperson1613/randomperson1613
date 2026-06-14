@@ -1,16 +1,30 @@
-## Hi there 👋
+# 👋 Привет! Меня зовут Damdam
 
-<!--
-**randomperson1613/randomperson1613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 QA Automation Engineer | Java
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Мой технический стек:
+`Java` `Selenide` `Selenium` `RestAssured` `JUnit 5` `Gradle` `Jenkins` `Allure Report` `Selenoid` `Git`
+
+---
+
+### 💼 Мои проекты
+
+#### 🖥 Тестирование UI
+🔗 **Проект:** [UI-AT](https://github.com/randomperson1613/UI-AT)
+✔️ Реализованы автотесты UI для проверки веб-приложений.
+🚩 **Что особенного:**
+- [x] Паттерн Page Object
+- [x] Параметризованные тесты
+- [x] Интеграция с Jenkins и генерация Allure-отчетов
+- [x] Запуск браузеров в Selenoid (видео-скриншоты)
+
+#### 🌐 Тестирование REST API
+🔗 **Проект:** [BACKEND-AT](https://github.com/randomperson1613/BACKEND-AT)
+✔️ Реализованы автотесты REST API.
+🚩 **Что особенного:**
+- [x] Использование RestAssured
+- [x] Описание моделей получаемых данных (POJO / Records)
+- [x] Спецификации запросов и ответов
+- [x] Лямбда-подход для описания шагов в Allure
